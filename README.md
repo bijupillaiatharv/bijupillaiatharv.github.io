@@ -1,5 +1,5 @@
 # Atharv Biju Pillai
-+-- subdirectory
++-- sub-directory
 |  +-- About.md
 ## Resume
 ![Resume](/AtharvBijuPillai-Resume.png)
