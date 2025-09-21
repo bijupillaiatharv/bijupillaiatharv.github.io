@@ -1,10 +1,7 @@
----
-title: bijupillaiatharv
-layout: default
----
 # Atharv Biju Pillai
-+-- sub-directory
-|  +-- About.md
+
+![About Me](/About.md)
+
 ## Resume
 ![Resume](/AtharvBijuPillai-Resume.png)
 
