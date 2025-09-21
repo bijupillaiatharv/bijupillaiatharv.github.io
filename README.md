@@ -1,5 +1,5 @@
 # Atharv Biju Pillai
 ## Resume
-![Resume](/Atharv_Biju_Pillai_-_Resume.png)
+![Resume](/AtharvBijuPillai-Resume.png)
 ## Boston University Rocket Propulsion Group
 
