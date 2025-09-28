@@ -39,10 +39,29 @@
   * Category: Bipropellant Test Stand (IPA/N2O)
   * Max Thrust Supported: 600 lbf
   * Use Cases: Rapid deployment and testing of small-scale rocket elements, utilize test data for full size designs
- * 
+
+**Contributions/Responsibilities:**
+  * designed fuel-centered carbon steel pintle injector
+  * sized pintle holes and annular sleeve to ensure proper mass flow rates of fuel and oxidizer
+  * ran fluid simulations to ensure injector stiffness is suffcient
+  * coordinated with other subteams to accomodate interfacing methods
+
 ### Hybrid Intro Project
+**Specifications:**
+  * Category: Hybrid Rocket Nozzle + Accompanying Flight Computer (Paraffin Wax/GOx)
+  * Thrust: 10 lbf
+  * Use Cases: allows incoming members of the team to acclimate themselves with the engineering design process and fundamental rocketry concepts
+
+**Contributions/Responsibilities:**
+  * Co-led the an introductory project where I helped guide new members in sizing and printing a hybrid rocket nozzle
+  * Held office hours to solidify basic rocketry concepts from Rocket Propulsion Elements (Sutton & Bilbarz)
+  * Led three sets of design reviews to provide feedback for their design
+    * corrected mistakes made in nozzle sizing calculations
+    * critique FEA analyses and engineering drawings
+    * provided feedback on design review best practices
 
 ## The MathWorks, Inc.
+
 
 ## Applied Interfacial Phenomena Lab
 
