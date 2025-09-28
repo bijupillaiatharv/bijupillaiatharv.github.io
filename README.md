@@ -1,8 +1,5 @@
 # Atharv Biju Pillai
 
-## Resume
-![Resume](/images/AtharvBijuPillai-Resume.png)
-
 ## Boston University Rocket Propulsion Group
 ### Argo
 **Specificiations:**
@@ -14,7 +11,8 @@
 **Contributions:**
   * Designed pressure vessels to hold fuel and oxidizer
     * Sized radial bolts to ensure tank can withstand internal pressure and external thrust loads
-    * Created python script that models the blowdown of the fuel tank to approximate necessary ullage volume
+    * Created Python script that models the blowdown of the fuel tank to approximate necessary ullage volume
+    * Simulated an bang-bang accumulator system in Python and weighed its fidelity in providing constant ullage pressure in the fuel tank
     * Ran finite element analysis on tank domes to verify design
   * Intertank Fluids Lead
     * Ensure proper routing, valve selection and sizing of intertank fluids components
@@ -115,4 +113,7 @@
   * Prioritize long-range commercial transport (~3000 nmi) through maximizing fuel efficiency and materials research
   * Modify cabin design to better accomodate passengers and improve comfort
   * Aim to create design that is 5-10% more profitable to capture market share
+
+## Resume
+![Resume](/images/AtharvBijuPillai-Resume.png)
 
