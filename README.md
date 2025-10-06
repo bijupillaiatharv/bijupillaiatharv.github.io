@@ -29,7 +29,7 @@
 | Python Simulation Element | Image | 
 | --- | --- |
 | Fuel Blowdown Simulation | <img src="/images/BlowdownSimulation.png" width="300" height="300"> |
-| Bang Bang Simulation | <img src="/images/BangBangSimulation.png" width="300" height="300"> |
+| Fuel Bang Bang Simulation | <img src="/images/BangBangSimulation.png" width="300" height="300"> |
 | Oxidizer Autogenous Pressurization Simulation | <img src="/images/AutogenousPressurization.png" width="300" height="300"> |
 ### Icarus
 **Specifications:**
