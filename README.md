@@ -44,6 +44,27 @@
   * Ran fluid simulations to ensure injector stiffness is suffcient
   * Coordinated with other subteams to accomodate interfacing methods
 
+| Version | Design | Version | Design | Version | Design |
+| --- | --- | --- | --- | --- | --- |
+| Version 1 | <img src="/images/PintleInjectorV1.png" width="300" height="300"> | Version 2 | <img src="/images/PintleInjectorV2.png" width="300" height="300"> | Version 3 | <img src="/images/PintleInjectorV3.png" width="300" height="300"> |
+| Version 4 | <img src="/images/PintleInjectorV4.png" width="300" height="300"> | Version 5 | <img src="/images/PintleInjectorV5.png" width="300" height="300"> | Version 6 | <img src="/images/PintleInjectorV6.png" width="300" height="300"> |
+| Version 7 | <img src="/images/PintleInjectorV7.png" width="300" height="300"> | Version 8 | <img src="/images/PintleInjectorV8.png" width="300" height="300"> | Version 9 | <img src="/images/PintleInjectorV9.png" width="300" height="300"> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hybrid Intro Project
 **Specifications:**
   * Category: Hybrid Rocket Nozzle + Accompanying Flight Computer (Paraffin Wax/GOx)
