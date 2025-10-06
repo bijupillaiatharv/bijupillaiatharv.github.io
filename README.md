@@ -83,6 +83,10 @@
     * Critique FEA analyses and engineering drawings
     * Provided feedback on design review best practices
 
+| Description | Image |
+| --- | --- |
+| My group's firing from when I was a freshman. | <img src="/images/HIPFiring.png" width="300" height="300"> |
+
 ## The MathWorks, Inc.
 **Position:**
   * Engineering Development Group Intern
