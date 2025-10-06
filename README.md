@@ -111,6 +111,7 @@
   * Public Speaking
 
 **Examples of Proficiency in MATLAB and Simulink:**
+
 | Description | Simulation |
 | --- | --- |
 | Fault Embedded Dynamic System Model | <img src="/images/FaultEmbeddedDynamicSystemSimulinkModel.png" width="50%" height="auto"> |
