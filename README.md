@@ -20,9 +20,11 @@
     * Guide team members through the design, build, test process for this subsystem
 
 | Simulation Element | Image |
-| Dome Loads and Fixtures | <img src="/images/DomeFixtures1.png" width="300" height="300"> |
-| Dome Mesh | | 
-| Dome VonMises Plot | |
+| Dome Loads and Fixtures 1 | <img src="/images/DomeFixtures1.png" width="300" height="300"> |
+| Dome Loads and Fixtures 2 | <img src="/images/DomeFixtures2.png" width="300" height="300"> |
+| Dome Mesh | <img src="/images/DomeMesh.png" width="300" height="300"> | 
+| Dome VonMises Plot | <img src="/images/DomeVonMises.png" width="300" height="300"> |
+| Dome FOS Plot | <img src="/images/DomeFOS.png" width="300" height="300"> |
 ### Icarus
 **Specifications:**
   * Altitude: 13,000 ft
