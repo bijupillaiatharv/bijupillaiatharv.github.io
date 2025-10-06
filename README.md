@@ -16,7 +16,7 @@
     * Ran finite element analysis on tank domes to verify design
   * Intertank Fluids Lead
     * Ensure proper routing, valve selection and sizing of intertank fluids components
-    * Responsible for designing fuel/ox press, dump, and relief systems on vehicle
+    * Responsible for designing fuel/ox dump, vent, and relief systems on vehicle
     * Guide team members through the design, build, test process for this subsystem
 
 ### Icarus
