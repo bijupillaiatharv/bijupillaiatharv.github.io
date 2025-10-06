@@ -151,5 +151,5 @@
   * Aim to create design that is 5-10% more profitable to capture market share
 
 ## Resume
-![Resume](/images/AtharvBijuPillai-Resume.png)
+![Resume](/images/Resume.jpg)
 
