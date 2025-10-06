@@ -19,6 +19,10 @@
     * Responsible for designing fuel/ox dump, vent, and relief systems on vehicle
     * Guide team members through the design, build, test process for this subsystem
 
+| Simulation Element | Image |
+| Dome Applied Loads |
+| Dome Mesh |
+| Dome 
 ### Icarus
 **Specifications:**
   * Altitude: 13,000 ft
