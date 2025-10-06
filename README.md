@@ -113,9 +113,9 @@
 **Examples of Proficiency in MATLAB and Simulink:**
 | Description | Simulation |
 | --- | --- |
-| Fault Embedded Dynamic System Model | <img src="/images/FaultEmbeddedDynamicSystemSimulinkModel.png" width="500" height="500"> |
-| Fault Embedded Fluid Flow Model | <img src="/images/FaultEmbeddedFluidSystemSimulinkModel.png" width="500" height="500"> |
-| Truss Simulation Model | <img src="/images/TrussSimulation.png" width="500" height="500"> |
+| Fault Embedded Dynamic System Model | <img src="/images/FaultEmbeddedDynamicSystemSimulinkModel.png" width="300" height="300"> |
+| Fault Embedded Fluid Flow Model | <img src="/images/FaultEmbeddedFluidSystemSimulinkModel.png" width="300" height="300"> |
+| Truss Simulation Model | <img src="/images/TrussSimulation.png" width="300" height="300"> |
 
 ## Applied Interfacial Phenomena Lab
 **Position:**
