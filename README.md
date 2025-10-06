@@ -47,8 +47,8 @@
 
 | Description | Image | Image |
 | --- | --- | --- |
-| Team Photos | <img src="/images/TeamPhoto2.JPEG" width="300" height="300"> | <img src="/images/TeamPhoto1.png" width="300" height="300"> |
-| Wire Cover | <img src="/images/WireCover.png" width="300" height="300"> | <img src="/images/WireCover2.png" width="300" height="300"> |
+| Team Photos | <img src="/images/TeamPhoto2.JPEG" width="300" height="300"> | <img src="/images/TeamPhoto1.JPEG" width="300" height="300"> |
+| Wire Cover | <img src="/images/WireCover.png" width="300" height="300"> | <img src="/images/WireCover2.JPG" width="300" height="300"> |
 
 
 ### VEGAS
