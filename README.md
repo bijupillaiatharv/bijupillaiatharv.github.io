@@ -13,7 +13,7 @@
     * Sized radial bolts to ensure tank can withstand internal pressure and external thrust loads
     * Created Python script that models the blowdown of the fuel tank to approximate necessary ullage volume
     * Simulated an bang-bang accumulator system in Python and weighed its fidelity in providing constant ullage pressure in the fuel tank
-    * Simulated autogenous pressurization of nitrous oxide in Python to predict performance variations during burn
+    * Simulated autogenous pressurization of nitrous oxide in Python to refine performance metrics
     * Ran finite element analysis on tank domes to verify design
   * Intertank Fluids Lead
     * Ensure proper routing, valve selection and sizing of intertank fluids components
