@@ -20,11 +20,17 @@
     * Responsible for designing fuel/ox dump, vent, and relief systems on vehicle
     * Guide team members through the design, build, test process for this subsystem
 
-| Simulation Element | Image | Simulation Element | Image
+| FEA Element | Image | Simulation Element | Image
 | --- | --- | --- | --- |
 | Dome Loads and Fixtures 1 | <img src="/images/DomeFixtures1.png" width="300" height="300"> | Dome Loads and Fixtures 2 | <img src="/images/DomeFixtures2.png" width="300" height="300"> |
 | Dome Mesh | <img src="/images/DomeMesh.png" width="300" height="300"> | Dome VonMises Plot | <img src="/images/DomeVonMises.png" width="300" height="300"> |
 | Dome FOS Plot | <img src="/images/DomeFOS.png" width="300" height="300"> |
+
+| Python Simulation Element | Image | 
+| --- | --- |
+| Fuel Blowdown Simulation | <img src="/images/BlowdownSimulation.png" width="300" height="300"> |
+| Bang Bang Simulation | <img src="/images/BangBangSimulation.png" width="300" height="300"> |
+| Oxidizer Autogenous Pressurization Simulation | <img src="/images/AutogenousPressurization.png" width="300" height="300"> |
 ### Icarus
 **Specifications:**
   * Altitude: 13,000 ft
