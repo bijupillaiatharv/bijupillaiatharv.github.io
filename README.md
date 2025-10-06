@@ -31,6 +31,7 @@
 | Fuel Blowdown Simulation | <img src="/images/BlowdownSimulation.png" width="300" height="300"> |
 | Fuel Bang Bang Simulation | <img src="/images/BangBangSimulation.png" width="300" height="300"> |
 | Oxidizer Autogenous Pressurization Simulation | <img src="/images/AutogenousPressurization.png" width="300" height="300"> |
+
 ### Icarus
 **Specifications:**
   * Altitude: 13,000 ft
@@ -43,6 +44,12 @@
     * Ensured 3D printed fixtures interfaced with intertank, thrust structure, and avionics bay
   * Supported flight readiness test campaign through test infrastructure setup
   * Designed avionics D-subminiature covers to protect wire harnessing
+
+| Description | Image | Image |
+| --- | --- | --- |
+| Team Photos | <img src="/images/TeamPhoto2.JPEG" width="300" height="300"> | <img src="/images/TeamPhoto1.png" width="300" height="300"> |
+| Wire Cover | <img src="/images/WireCover.png" width="300" height="300"> | <img src="/images/WireCover2.png" width="300" height="300"> |
+
 
 ### VEGAS
 **Specifications:**
