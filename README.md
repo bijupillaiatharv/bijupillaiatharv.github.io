@@ -104,6 +104,13 @@
     * Created custom examples to highlight the proper usage of test classes
     * Created decision charts to provide a guideline for efficient usage of the tools
 
+**Examples of Proficiency in MATLAB and Simulink:**
+| Description | Simulation |
+| --- | --- |
+| Fault Embedded Dynamic System Model | <img src="/images/FaultEmbeddedDynamicSystemSimulinkModel.png" width="300" height="300"> |
+| Fault Embedded Fluid Flow Model | <img src="/images/FaultEmbeddedFluidSystemSimulinkModel.png" width="300" height="300"> |
+| Truss Simulation Model | <img src="/images/TrussSimulation.png" width="300" height="300"> |
+
 **Relevant Skills:**
   * Object-Oriented Programming in MATLAB
   * Quality Engineering
