@@ -20,17 +20,17 @@
     * Responsible for designing fuel/ox dump, vent, and relief systems on vehicle
     * Guide team members through the design, build, test process for this subsystem
 
-| FEA Element | Image | Simulation Element | Image
+| FEA Element | Image | Simulation Element | Image |
 | --- | --- | --- | --- |
-| Dome Loads and Fixtures 1 | <img src="/images/DomeFixtures1.png" width="300" height="300"> | Dome Loads and Fixtures 2 | <img src="/images/DomeFixtures2.png" width="300" height="300"> |
-| Dome Mesh | <img src="/images/DomeMesh.png" width="300" height="300"> | Dome VonMises Plot | <img src="/images/DomeVonMises.png" width="300" height="300"> |
-| Dome FOS Plot | <img src="/images/DomeFOS.png" width="300" height="300"> |
+| Dome Loads and Fixtures 1 | <img src="/images/DomeFixtures1.png" width="50%" height="auto"> | Dome Loads and Fixtures 2 | <img src="/images/DomeFixtures2.png" width="50%" height="auto"> |
+| Dome Mesh | <img src="/images/DomeMesh.png" width="50%" height="auto"> | Dome VonMises Plot | <img src="/images/DomeVonMises.png" width="50%" height="auto"> |
+| Dome FOS Plot | <img src="/images/DomeFOS.png" width="50%" height="auto"> |
 
 | Python Simulation Element | Image | 
 | --- | --- |
-| Fuel Blowdown Simulation | <img src="/images/BlowdownSimulation.png" width="300" height="300"> |
-| Fuel Bang Bang Simulation | <img src="/images/BangBangSimulation.png" width="300" height="300"> |
-| Oxidizer Autogenous Pressurization Simulation | <img src="/images/AutogenousPressurization.png" width="300" height="300"> |
+| Fuel Blowdown Simulation | <img src="/images/BlowdownSimulation.png" width="50%" height="auto"> |
+| Fuel Bang Bang Simulation | <img src="/images/BangBangSimulation.png" width="50%" height="auto"> |
+| Oxidizer Autogenous Pressurization Simulation | <img src="/images/AutogenousPressurization.png" width="50%" height="auto"> |
 
 ### Icarus
 **Specifications:**
@@ -47,8 +47,8 @@
 
 | Description | Image | Image |
 | --- | --- | --- |
-| Team Photos | <img src="/images/TeamPhoto2.JPEG" width="300" height="300"> | <img src="/images/TeamPhoto1.JPEG" width="300" height="300"> |
-| Wire Cover | <img src="/images/WireCover.png" width="300" height="300"> | <img src="/images/WireCover2.jpg" width="300" height="300"> |
+| Team Photos | <img src="/images/TeamPhoto2.JPEG" width="50%" height="auto"> | <img src="/images/TeamPhoto1.JPEG" width="50%" height="auto"> |
+| Wire Cover | <img src="/images/WireCover.png" width="50%" height="auto"> | <img src="/images/WireCover2.jpg" width="50%" height="auto"> |
 
 
 ### VEGAS
@@ -65,9 +65,9 @@
 
 | Version | Design | Version | Design | Version | Design |
 | --- | --- | --- | --- | --- | --- |
-| Version 1 | <img src="/images/PintleInjectorV1.png" width="300" height="300"> | Version 2 | <img src="/images/PintleInjectorV2.png" width="300" height="300"> | Version 3 | <img src="/images/PintleInjectorV3.png" width="300" height="300"> |
-| Version 4 | <img src="/images/PintleInjectorV4.png" width="300" height="300"> | Version 5 | <img src="/images/PintleInjectorV5.png" width="300" height="300"> | Version 6 | <img src="/images/PintleInjectorV6.png" width="300" height="300"> |
-| Version 7 | <img src="/images/PintleInjectorV7.png" width="300" height="300"> | Version 8 | <img src="/images/PintleInjectorV8.png" width="300" height="300"> | Version 9 | <img src="/images/PintleInjectorV9.png" width="300" height="300"> |
+| Version 1 | <img src="/images/PintleInjectorV1.png" width="50%" height="auto"> | Version 2 | <img src="/images/PintleInjectorV2.png" width="50%" height="auto"> | Version 3 | <img src="/images/PintleInjectorV3.png" width="50%" height="auto"> |
+| Version 4 | <img src="/images/PintleInjectorV4.png" width="50%" height="auto"> | Version 5 | <img src="/images/PintleInjectorV5.png" width="50%" height="auto"> | Version 6 | <img src="/images/PintleInjectorV6.png" width="50%" height="auto"> |
+| Version 7 | <img src="/images/PintleInjectorV7.png" width="50%" height="auto"> | Version 8 | <img src="/images/PintleInjectorV8.png" width="50%" height="auto"> | Version 9 | <img src="/images/PintleInjectorV9.png" width="50%" height="auto"> |
 
 ### Hybrid Intro Project
 **Specifications:**
@@ -85,7 +85,7 @@
 
 | Description | Image |
 | --- | --- |
-| My group's firing from when I was a freshman. | <img src="/images/HIPFiring.png" width="300" height="300"> |
+| My group's firing from when I was a freshman. | <img src="/images/HIPFiring.png" width="50%" height="auto"> |
 
 ## The MathWorks, Inc.
 **Position:**
@@ -113,9 +113,9 @@
 **Examples of Proficiency in MATLAB and Simulink:**
 | Description | Simulation |
 | --- | --- |
-| Fault Embedded Dynamic System Model | <img src="/images/FaultEmbeddedDynamicSystemSimulinkModel.png" width="300" height="300"> |
-| Fault Embedded Fluid Flow Model | <img src="/images/FaultEmbeddedFluidSystemSimulinkModel.png" width="300" height="300"> |
-| Truss Simulation Model | <img src="/images/TrussSimulation.png" width="300" height="300"> |
+| Fault Embedded Dynamic System Model | <img src="/images/FaultEmbeddedDynamicSystemSimulinkModel.png" width="50%" height="auto"> |
+| Fault Embedded Fluid Flow Model | <img src="/images/FaultEmbeddedFluidSystemSimulinkModel.png" width="50%" height="auto"> |
+| Truss Simulation Model | <img src="/images/TrussSimulation.png" width="50%" height="auto"> |
 
 ## Applied Interfacial Phenomena Lab
 **Position:**
