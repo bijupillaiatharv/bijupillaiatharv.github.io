@@ -17,3 +17,7 @@ filename: Coursework.md
   * Prioritize long-range commercial transport (~3000 nmi) through maximizing fuel efficiency and materials research
   * Modify cabin design to better accomodate passengers and improve comfort
   * Aim to create design that is 5-10% more profitable to capture market share
+
+| Description | Image |
+| --- | --- |
+| Twin Jet Airliner | <img src="/images/ME408TwinJetAirliner.png" width="50%" height="auto"> |
