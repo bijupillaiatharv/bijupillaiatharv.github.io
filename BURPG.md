@@ -12,16 +12,22 @@ Go to [Home](README.md)
   * Size: 8 in OD, 22+ ft long
 
 **Contributions:**
+  * Responsible Engineer: Relief, Vent, and Dump Systems
+    * Ensure proper routing, valve selection and sizing of fluids components
+    * Responsible for designing fuel/ox dump, vent, and relief systems on vehicle
+    * Guide team members through the design, build, test process for this subsystem
+    * Help operate test stand and validate rocket systems prior to static fires and launch
   * Designed pressure vessels to hold fuel and oxidizer
     * Sized radial bolts to ensure tank can withstand internal pressure and external thrust loads
     * Created Python script that models the blowdown of the fuel tank to approximate necessary ullage volume
     * Simulated an bang-bang accumulator system in Python and weighed its fidelity in providing constant ullage pressure in the fuel tank
     * Simulated autogenous pressurization of nitrous oxide in Python to refine performance metrics
     * Ran finite element analysis on tank domes to verify design
-  * Intertank Fluids Lead
-    * Ensure proper routing, valve selection and sizing of intertank fluids components
-    * Responsible for designing fuel/ox dump, vent, and relief systems on vehicle
-    * Guide team members through the design, build, test process for this subsystem
+
+| Fluids Subsystem | Image | Components |
+| --- | --- | --- |
+| Intertank Fluids Assembly | img src="images/IntertankFluidsAssembly.png" width="50%" height="auto"> | Fuel Press, Fuel Relief, Fuel Vent, Ox Dump, Ox Pressure Transducer |
+| Avionics Bay Fluids Assembly | img src="images/AvBayFluidsAssembly.png" width="50%" height="auto"> | Ox Vent, Ox Relief, Ox Fill, Ox Press |
 
 | FEA Element | Image | Simulation Element | Image |
 | --- | --- | --- | --- |
