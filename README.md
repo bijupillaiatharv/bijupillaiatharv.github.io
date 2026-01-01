@@ -1,11 +1,11 @@
 # Atharv Biju Pillai
 [Boston University Rocket Propulsion Group](BURPG.md)
 
-Go to [MathWorks](MathWorks.md)
+[MathWorks](MathWorks.md)
 
-Go to [Applied Interfacial Phenomena Lab](Research.md)
+[Applied Interfacial Phenomena Lab](Research.md)
 
-Go to [Coursework](Coursework.md)
+[Coursework](Coursework.md)
 
 
 ## Resume
