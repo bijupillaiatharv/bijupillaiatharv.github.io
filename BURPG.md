@@ -27,7 +27,7 @@ Go to [Home](README.md)
 | Fluids Subsystem | Image | Components |
 | --- | --- | --- |
 | Intertank Fluids Assembly | <img src="/images/IntertankFluidsAssembly.png" width="50%" height="auto"> | Fuel Press, Fuel Relief, Fuel Vent, Ox Dump, Ox Pressure Transducer |
-| Avionics Bay Fluids Assembly | <img src="/images/AvBayFluidsAssembly.png" width="50%" height="auto"> | Ox Vent, Ox Relief, Ox Fill, Ox Press |
+| Avionics Bay Fluids Assembly | <img src="/images/AvBayFluidsAssembly.png" width="50%" height="auto"> | Ox Vent, Ox Relief, Ox Fill, Ox Pressure Transducer |
 
 | FEA Element | Image | Simulation Element | Image |
 | --- | --- | --- | --- |
