@@ -9,5 +9,5 @@
 
 
 ## Resume
-![Resume](/images/AtharvBijuPillai_Resume.png)
+![Resume](/images/AtharvBijuPillai_Resume-1.png)
 
