@@ -16,7 +16,7 @@ Go to [Home](README.md)
     * Ensure proper routing, valve selection and sizing of fluids components
     * Responsible for designing fuel/ox dump, vent, and relief systems on vehicle
     * Guide team members through the design, build, test process for this subsystem
-    * Help operate test stand and validate rocket systems prior to static fires and launch
+    * Help operate test stand and validate rocket systems
   * Designed pressure vessels to hold fuel and oxidizer
     * Sized radial bolts to ensure tank can withstand internal pressure and external thrust loads
     * Created Python script that models the blowdown of the fuel tank to approximate necessary ullage volume
