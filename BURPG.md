@@ -24,7 +24,7 @@ Go to [Home](README.md)
     * Simulated autogenous pressurization of nitrous oxide in Python to refine performance metrics
     * Ran finite element analysis on tank domes to verify design
 
-| Fluids Subsystem | Image | Components |
+| Fluids Subsystem | CAD Model | Assembled System | Components |
 | --- | --- | --- | --- |
 | Intertank Fluids Assembly | <img src="/images/IntertankFluidsAssembly.png" width="50%" height="auto"> | <img src="/images/intertank_assembled.jpeg" width="50%" height="auto"> |Fuel Press, Fuel Relief, Fuel Vent, Ox Dump, Ox Pressure Transducer
 | Avionics Bay Fluids Assembly | <img src="/images/AvBayFluidsAssembly.png" width="50%" height="auto"> | <img src="/images/avionics_bay_assembled.jpeg" width="50%" height="auto"> | Ox Vent, Ox Relief, Ox Fill, Ox Pressure Transducer |
