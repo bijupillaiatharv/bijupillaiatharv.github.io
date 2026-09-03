@@ -6,6 +6,18 @@ Go to [Home](README.md)
 ## The MathWorks, Inc.
 **Position:**
   * Engineering Development Group Intern
+    * Natick Simscape Libraries
+      * Simscape Fluids
+
+**Contributions:**
+  * Modeled fault-embedded physics for Gas-Charged Accumulator (IL) block for Simscape Fluids library
+  * Re-derive continuity and energy equations to account for leakages within gas and liquid chambers
+  * Verify validity of leakage dynamics through model testing for various edge cases
+  * Optimize software implementation for seamless integration of faults while preserving prior behaviors
+  * Improve computational efficiency of fault modeling by reducing number of differential variables while maintaining accurate dynamics
+
+**Position:**
+  * Engineering Development Group Intern
     * Simulink V&V Quality Engineering
       * Simulink Fault Analyzer
  
